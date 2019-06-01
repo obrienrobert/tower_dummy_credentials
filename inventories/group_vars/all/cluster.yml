@@ -19,6 +19,8 @@ rh_pass: ''
 dev_domain: ''
 poc_domain: ''
 
+cluster_test: 'test'
+
 htpasswd_username: ''
 htpasswd_password: ''
 
